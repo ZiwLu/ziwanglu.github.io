@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Homepage"
 title_separator          : "-"
@@ -27,7 +27,7 @@ author:
   name             : "Ziwang Lu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
-  location         : "School of Vehicle and Mobility"
+  location         : "A539-1 Lee Shau Kee Science <br> and Technology Building"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "luzw@tsinghua.edu.cn" 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
