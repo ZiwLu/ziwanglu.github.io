@@ -22,7 +22,7 @@ Work experience
   * Supervisor: Prof. Guangyu Tian
 
   
-#Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -51,4 +51,4 @@ Work experience
   
 #Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams-->
