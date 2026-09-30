@@ -27,7 +27,7 @@ author:
   name             : "Ziwang Lu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher"
-  location         : "A539-1 Lee Shau Kee Science" "and Technology Building"
+  location         : "A539-1 Lee Shau Kee Science"\n"and Technology Building"
   employer         : "Tsinghua University"
   uri              : # URL
   email            : "luzw@tsinghua.edu.cn" 
