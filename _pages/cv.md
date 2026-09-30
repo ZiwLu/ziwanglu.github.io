@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in School of Vehicle and Mobility, Tsinghua University, 2021
+  *  Joint Doctoral Research, Stanford University, May 2019-July 2020
 * B.S. in School of Mechanical and Vehicle Engineering, Beijing Institute of Technology, 2015
 
 Work experience
